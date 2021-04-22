@@ -55,17 +55,7 @@ def home():
     <div class="center">
         <div class="text">
             <form action="/action_page.php">
-                <label for="fname">First name:</label>
-                <input type="text" id="fname" name="fname"><br><br>
-                <label for="lname">Last name:</label>
-                <input type="text" id="lname" name="lname"><br><br>
-                <label for="state">State:</label>
-                <input type="text" id="state" name="state"><br><br>
-                <label for="phn">Phone Number:</label>
-                <input type="text" id="phn" name="phn"><br><br>
-                <label for="bld">Blood Group:</label>
-                <input type="text" id="bld" name="bld"><br><br>
-                <input type="submit" value="Submit">
+                <h1>HomePage</h1>
             </form>
         </div>
     </div>
