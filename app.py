@@ -49,7 +49,7 @@ def home():
 </head>
 <body onload="swap_class()">
     <div class="nav">
-        <a class="active" href="" id="home">HOME</a>
+        <a class="active" href="home" id="home">HOME</a>
         <a href="reg" id="reg">REGISTER</a>
     </div>
     <div class="center">
@@ -118,7 +118,7 @@ def reg():
 </head>
 <body onload="swap_class()">
     <div class="nav">
-        <a href="" id="home">HOME</a>
+        <a href="home" id="home">HOME</a>
         <a class="active" href="reg" id="reg">REGISTER</a>
     </div>
     <div class="center">
