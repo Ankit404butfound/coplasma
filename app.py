@@ -54,9 +54,7 @@ def home():
     </div>
     <div class="center">
         <div class="text">
-            <form action="/action_page.php">
-                <h1>HomePage</h1>
-            </form>
+            <h1>HomePage</h1>
         </div>
     </div>
 </body>"""
